@@ -35,7 +35,7 @@ limits:
   max_aliases: 3
 
 preview_persisted_queries:
-  enabled: true
+  enabled: false
   safelist:
     enabled: false
     require_id: false
